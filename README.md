@@ -52,7 +52,7 @@ If you don’t see installers yet, you can still build from source (see below).
 - **Dates not detected**: verify your dates look like `YYYY-MM-DD` or use a custom SQL type.
 - **Too many types**: toggle "Show all datatypes" and set `n` where shown (e.g., `varchar(n)`, `float(n)`).
 
-### Building From Source (optional)
+### Building From Source (REQUIRED)
 
 If you prefer to build locally:
 
