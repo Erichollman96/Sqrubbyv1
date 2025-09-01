@@ -2,7 +2,7 @@
 
 Turn CSV files into clean SQL quickly. Scrubby helps you inspect and clean columns, then generates `CREATE TABLE` and `INSERT` statements for PostgreSQL, MySQL, SQLite, and SQL Server. Runs entirely on your computer.
 
-### Downloads
+### Downloads - !!! CURRENTLY DISBLED !!!
 
 - **Windows**: download the latest Installer (`...-Windows-<version>-Setup.exe`) from this repository’s Releases page.
 - **macOS**: download the `.dmg` Installer.
@@ -44,10 +44,7 @@ If you don’t see installers yet, you can still build from source (see below).
 - Windows 10/11 (x64), macOS 12+ (Intel/Apple Silicon), or a recent Linux (x64).
 - Node.JS 18+ 
   - Win: https://nodejs.org/dist/latest/
-  - Lin: 
-    sudo apt update
-    sudo apt install nodejs -y
-    sudo apt install npm -y # Install npm if it's not included with nodejs
+  - For Linux, see 
 - A modern database client to run the generated SQL.
 
 ### Troubleshooting
