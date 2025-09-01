@@ -42,6 +42,12 @@ If you don’t see installers yet, you can still build from source (see below).
 ### Requirements
 
 - Windows 10/11 (x64), macOS 12+ (Intel/Apple Silicon), or a recent Linux (x64).
+- Node.JS 18+ 
+  - Win: https://nodejs.org/dist/latest/
+  - Lin: 
+    sudo apt update
+    sudo apt install nodejs -y
+    sudo apt install npm -y # Install npm if it's not included with nodejs
 - A modern database client to run the generated SQL.
 
 ### Troubleshooting
