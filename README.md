@@ -35,6 +35,8 @@ If you don’t see installers yet, you can still build from source (see below).
 - **Missing values**: keep nulls, set a default, drop rows, or impute (mean/median/mode/custom).
 - **Duplicate detection**: flag likely duplicates by selecting key columns.
 
+![alt text](https://i.postimg.cc/mkz9H94h/sqrubby0.png "Sqrubby 1")
+
 ### Privacy
 
 - Scrubby processes your CSV entirely **on-device**. No data leaves your computer.
