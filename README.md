@@ -62,7 +62,7 @@ If you don’t see installers yet, you can still build from source (see below).
 - Windows 10/11 (x64), macOS 12+ (Intel/Apple Silicon), or a recent Linux (x64).
 - Node.JS 18+ 
   - Win: https://nodejs.org/dist/latest/
-  - For Linux, see 
+  - For Linux, simply install the dependencies
 - A modern database client to run the generated SQL.
 
 ### Troubleshooting
