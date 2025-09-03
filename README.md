@@ -2,7 +2,7 @@
 
 Turn CSV files into clean SQL quickly. Scrubby helps you inspect and clean columns, then generates `CREATE TABLE` and `INSERT` statements for PostgreSQL, MySQL, SQLite, and SQL Server. Runs entirely on your computer.
 
-### Downloads - !!! CURRENTLY DISBLED !!!
+### Downloads - !!! CURRENTLY DISBLED !!! - See: Building From Source 
 
 - **Windows**: download the latest Installer (`...-Windows-<version>-Setup.exe`) from this repository’s Releases page.
 - **macOS**: download the `.dmg` Installer.
