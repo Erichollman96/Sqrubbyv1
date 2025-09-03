@@ -35,7 +35,14 @@ If you don’t see installers yet, you can still build from source (see below).
 - **Missing values**: keep nulls, set a default, drop rows, or impute (mean/median/mode/custom).
 - **Duplicate detection**: flag likely duplicates by selecting key columns.
 
-![alt text](https://i.postimg.cc/mkz9H94h/sqrubby0.png "Sqrubby 1")
+[![sqrubby0.png](https://i.postimg.cc/mkz9H94h/sqrubby0.png)](https://postimg.cc/2LY3pVVf)
+
+[![sqrubby1.png](https://i.postimg.cc/qvdKNg5M/sqrubby1.png)](https://postimg.cc/F7DzqFv2)
+
+[![sqrubby2.png](https://i.postimg.cc/cCpnMJ1h/sqrubby2.png)](https://postimg.cc/p5BrPRF5)
+
+[![sqrubby3.png](https://i.postimg.cc/HsM5Wb3h/sqrubby3.png)](https://postimg.cc/RNMqX6k7)
+
 
 ### Privacy
 
