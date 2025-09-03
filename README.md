@@ -35,11 +35,20 @@ If you don’t see installers yet, you can still build from source (see below).
 - **Missing values**: keep nulls, set a default, drop rows, or impute (mean/median/mode/custom).
 - **Duplicate detection**: flag likely duplicates by selecting key columns.
 
+### IMAGES
+
+## Import your CSV, select your SQL dialect
+
 [![sqrubby0.png](https://i.postimg.cc/mkz9H94h/sqrubby0.png)](https://postimg.cc/2LY3pVVf)
+
+## Select options to scrub your data
+[![sqrubby2.png](https://i.postimg.cc/cCpnMJ1h/sqrubby2.png)](https://postimg.cc/p5BrPRF5)
+
+## See the preview of your data table before migrating your data
 
 [![sqrubby1.png](https://i.postimg.cc/qvdKNg5M/sqrubby1.png)](https://postimg.cc/F7DzqFv2)
 
-[![sqrubby2.png](https://i.postimg.cc/cCpnMJ1h/sqrubby2.png)](https://postimg.cc/p5BrPRF5)
+## Generate your SQL code!
 
 [![sqrubby3.png](https://i.postimg.cc/HsM5Wb3h/sqrubby3.png)](https://postimg.cc/RNMqX6k7)
 
